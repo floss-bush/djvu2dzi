@@ -1,0 +1,14 @@
+{
+    "repositories": [
+        {
+            "type":"vcs",
+            "url":"vendor/bush"
+        }
+    ],
+    "require": {
+        "symfony/console": "2.3.*",
+        "symfony/finder": "2.3.*",
+         "bush/dzi": "*"
+    },
+    "minimum-stability": "dev"
+}
